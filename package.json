@@ -1,0 +1,19 @@
+{
+  "name": "game1",
+  "version": "1.0.0",
+  "description": "# test de premier jeux vidéo",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexuuss/game1.git"
+  },
+  "author": "nexuuss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexuuss/game1/issues"
+  },
+  "homepage": "https://github.com/nexuuss/game1#readme"
+}
